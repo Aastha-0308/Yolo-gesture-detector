@@ -64,7 +64,7 @@ All 5 gesture classes performed consistently well, with mAP50 scores of 0.994–
 ## Running it locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/yolo-gesture-detector.git
+git clone https://github.com/Aastha-0308/yolo-gesture-detector.git
 cd yolo-gesture-detector
 pip install -r requirements.txt
 streamlit run app.py
