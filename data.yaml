@@ -1,0 +1,10 @@
+path: dataset
+train: images/train
+val: images/val
+
+names:
+  0: thumbs_up
+  1: peace
+  2: open_palm
+  3: fist
+  4: ok_sign

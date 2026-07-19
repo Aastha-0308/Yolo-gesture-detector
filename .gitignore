@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+gesture_data/
+dataset/
+yolov8n.pt
+runs/
